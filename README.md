@@ -1,2 +1,9 @@
-# Student-Survival-Hub
-A website to help students overcome there problems.
+# Student Survival Hub
+
+A simple student-focused website that provides tips on:
+- Study planning
+- Time management
+- Stress management
+- Career guidance
+
+Built using HTML and CSS.
